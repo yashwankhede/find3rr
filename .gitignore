@@ -1,0 +1,11 @@
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Linux temporary files
+*~
+
+# Ignore binary files
+*.exe
+*.o
+*.so
+*.dll
