@@ -6,3 +6,7 @@ A simple Bash script to search for files, directories, and text strings within f
 
 ```sh
 ./find3rr.sh [option] [value]
+
+## Demo
+
+![Image](ss/ss1.png)
