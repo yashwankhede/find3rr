@@ -1,12 +1,13 @@
 # find3rr
 
-A simple Bash script to search for files, directories, and text strings within files.
+A simple script to search for files, directories, and text strings within files. Available in both Bash and Bend languages.
 
-## Usage
+## Bash Script
+
+### Usage
 
 ```sh
 ./find3rr.sh [option] [value]
-```
 
 ## Demo
 
